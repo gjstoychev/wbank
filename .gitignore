@@ -2,3 +2,4 @@
 *.iml
 *.txt
 *.bank/static/
+*.frontend/node_modules/
